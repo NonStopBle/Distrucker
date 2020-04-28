@@ -11,7 +11,7 @@ Discord Steal Token [Not Detected]
 
 - ***EDIT loader.dll WITH NOTEPAD***
 
-- ***INSERT YOUR FTP USERNAME ON LINE 1
+- ***INSERT YOUR FTP USERNAME ON LINE 1***
 
 - ***INSERT YOUR FTP PASSWORD ON LINE 2***
 
