@@ -30,3 +30,4 @@ REQUIREMENT
 - Copy leveldb to %AppData%\Roaming\discord\Local Storage\leveldb
 - Open Discord
 - Pwned ...
+If you open the program then it's sending a message through a discord webhook with the following informations:
