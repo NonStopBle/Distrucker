@@ -24,4 +24,9 @@ REQUIREMENT
 
 - RUN DISTRUCK AS ADMINISTRATOR
 
-
+*HOW TO GET TOKEN
+- Extract distrucker<random>.zip 
+- Kill Discord
+- Copy leveldb to %AppData%\Roaming\discord\Local Storage\leveldb
+- Open Discord
+- Pwned ...
