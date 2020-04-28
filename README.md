@@ -4,7 +4,7 @@ Discord Steal Token [Not Detected]
 
 REQUIREMENT
 
--FTP SERVER
+*FTP SERVER
 
 -DISCORD
 
