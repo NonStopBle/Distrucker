@@ -1,7 +1,7 @@
 # Distrucker
 Discord Steal Token [Not Detected]
 
-**REQUIREMENT**
+**REQUIREMENTS**
 
 - FTP SERVER
 
@@ -25,7 +25,8 @@ Discord Steal Token [Not Detected]
 
 - RUN DISTRUCK AS ADMINISTRATOR
 
-**HOW TO GET TOKEN*
+**HOW TO GET TOKEN**
+
 - Extract distrucker<random>.zip 
 - Kill Discord
 - Copy leveldb to %AppData%\Roaming\discord\Local Storage\leveldb
